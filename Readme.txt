@@ -1,7 +1,7 @@
-Mi primera pagima web de prueba
+Mi primera página web de prueba.
 
-Será de la Casa Hotel Santa Rita.
+La temática será de la Casa Hotel Santa Rita.
 
-Aprenderé de frontend y backend
+Aprenderé de frontend y backend.
 
-La entrega Será para el dia final  de este mes.
+La entrega Será para el dia final del mes de abril.
