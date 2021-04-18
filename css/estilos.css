@@ -14,7 +14,14 @@ footer
     text-align: center;
     font-family: Arial;
 }
-
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+    margin: 0;
+}
 #cabecera
 {
     background: #33A;
