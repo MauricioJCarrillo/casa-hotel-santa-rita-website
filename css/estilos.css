@@ -71,3 +71,10 @@ header #tagline
     background: white;
     padding: 1em;
 }
+
+#lista_de_verduras 
+{
+    background: rgb(211, 240, 203);
+    padding: 1em;
+    margin: 0 auto;
+}
