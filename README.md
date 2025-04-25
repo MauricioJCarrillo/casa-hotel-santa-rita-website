@@ -1,3 +1,3 @@
-# My-first-webpage
+# Casa Hotel Santa Rita Website
 
-This is my firs webpage to practice my digital skills: HTML, CSS and JavaScript. Theme: Casa Hotel Santa Rita (Tourism)
+This is a website to offer tourism services.
