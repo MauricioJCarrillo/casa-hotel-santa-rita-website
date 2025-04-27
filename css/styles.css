@@ -161,6 +161,45 @@ section {
   content: "";
 }
 
+.about {
+  background-color: white;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.about-image {
+  flex: 1;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.about-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text h3 {
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  color: var(--secondary);
+}
+
+.about-text p {
+  margin-bottom: 20px;
+  font-size: 1.6rem;
+  color: #555;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
   header {
