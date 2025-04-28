@@ -162,17 +162,22 @@ section {
 }
 
 .about {
+  width: 100%;
   background-color: white;
 }
 
 .about-content {
   display: flex;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;
+  flex-flow: row wrap;
   gap: 40px;
 }
 
 .about-image {
   flex: 1;
+  max-width: 500px;
+  min-width: 280px;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
@@ -186,6 +191,8 @@ section {
 
 .about-text {
   flex: 1;
+  max-width: 500px;
+  min-width: 280px;
 }
 
 .about-text h3 {
@@ -258,6 +265,14 @@ section {
 
   .btn-outline {
     padding: 10px 20px;
+    font-size: 1.2rem;
+  }
+
+  .about-text h3 {
+    font-size: 1.4rem;
+  }
+
+  .about-text p {
     font-size: 1.2rem;
   }
 }
