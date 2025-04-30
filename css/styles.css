@@ -297,7 +297,7 @@ section {
   color: white;
 }
 
-/* Accomodations section */
+/* Accommodations section */
 .rooms {
   background-color: white;
 }
@@ -340,7 +340,7 @@ section {
 }
 
 .room-details {
-  padding: 20px;
+  padding: 5%;
 }
 
 .room-details h3 {
@@ -466,6 +466,27 @@ section {
   }
 
   .feature h3 {
+    font-size: 1.4rem;
+  }
+
+  .room-details h3 {
+    margin-bottom: 5px;
+    font-size: 1.6rem;
+  }
+
+  .room-details p {
+    font-size: 1.2rem;
+  }
+
+  .room-feature {
+    font-size: 1.2rem;
+  }
+
+  .price {
+    font-size: 1.6rem;
+  }
+
+  .price span {
     font-size: 1.4rem;
   }
 }
