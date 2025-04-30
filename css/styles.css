@@ -392,6 +392,11 @@ section {
   color: #888;
 }
 
+.btn-reservar {
+  margin: 0px;
+  padding: 10px 20px;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
   header {
@@ -488,6 +493,10 @@ section {
 
   .price span {
     font-size: 1.4rem;
+  }
+
+  .btn-reservar {
+    margin: 0px;
   }
 }
 
