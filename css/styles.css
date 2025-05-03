@@ -403,13 +403,22 @@ section {
 
 .testimonial-container {
   display: flex;
-  /* max-width: 800px; */
-  /* position: relative; */
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 .testimonial {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  max-width: 350px;
+  margin: 10px;
   padding: 30px;
   text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 .testimonial-text {
