@@ -402,7 +402,8 @@ section {
 }
 
 .testimonial-container {
-  max-width: 800px;
+  display: flex;
+  /* max-width: 800px; */
   /* position: relative; */
 }
 
@@ -441,26 +442,6 @@ section {
 .author-location {
   font-size: 1.4rem;
   color: #888;
-}
-
-.nav-dots {
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
-}
-
-.nav-dot {
-  width: 12px;
-  height: 12px;
-  margin: 0 5px;
-  background-color: #ccc;
-  border-radius: 50%;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.nav-dot.active {
-  background-color: var(--accent);
 }
 
 /* Media Queries */
