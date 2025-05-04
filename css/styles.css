@@ -554,6 +554,18 @@ section {
   .btn-reservar {
     margin: 0px;
   }
+
+  .testimonial-text {
+    font-size: 1.4rem;
+  }
+
+  .author-name {
+    font-size: 1.4rem;
+  }
+
+  .author-location {
+    font-size: 1.2rem;
+  }
 }
 
 /* Animation */
