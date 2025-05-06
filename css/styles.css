@@ -683,6 +683,34 @@ section {
   .author-location {
     font-size: 1.2rem;
   }
+
+  .contact-info h3 {
+    font-size: 1.6rem;
+  }
+
+  .contact-details h4 {
+    font-size: 1.4rem;
+  }
+
+  .contact-details p {
+    font-size: 1.4rem;
+  }
+
+  .contact-form h3 {
+    font-size: 1.6rem;
+  }
+
+  .form-group label {
+    font-size: 1.4rem;
+  }
+
+  .form-control {
+    font-size: 1.4rem;
+  }
+
+  .form-group button {
+    font-size: 1.6rem;
+  }
 }
 
 /* Animation */
