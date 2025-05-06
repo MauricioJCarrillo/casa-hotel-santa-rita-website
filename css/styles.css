@@ -786,6 +786,10 @@ footer {
   .form-group button {
     font-size: 1.6rem;
   }
+
+  .footer-bottom {
+    font-size: 1.4rem;
+  }
 }
 
 /* Animation */
