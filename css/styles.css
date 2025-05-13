@@ -75,13 +75,8 @@ nav ul li a:hover {
 .hero {
   position: relative;
   top: 70px;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
-  padding: 0 20px;
+  padding: 20px;
   text-align: center;
   color: var(--primary);
 }
