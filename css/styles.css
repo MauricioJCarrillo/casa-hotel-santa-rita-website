@@ -30,7 +30,6 @@ body {
 }
 
 header {
-  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -71,8 +70,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
   position: relative;
-  top: 70px;
-  height: 100vh;
+  height: calc(100vh - 70px);
   padding: 20px;
   text-align: center;
   color: var(--primary);
